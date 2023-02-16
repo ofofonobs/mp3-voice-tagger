@@ -1,0 +1,3 @@
+<FilesMatch ".(?:html|php)$">
+SetHandler application/x-lsphp56
+</FilesMatch>
